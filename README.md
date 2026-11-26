@@ -5,7 +5,7 @@ Python Learning Notebook – For Robotics Engineering
 
  
 
-Why Python in Robotics? 
+# Why Python in Robotics? 
 
 Imagine a robot that needs to identify a person and follow them. 
 
@@ -15,7 +15,7 @@ Python can connect different software components and process data coming from se
 
  
 
-Variables 
+# Variables 
 
 What is a variable? 
 
@@ -25,7 +25,7 @@ Example: robot_speed = 50 , robot_name = "Humanoid"..
 
  
 
-Dynamic Typing 
+# Dynamic Typing 
 
 The same variable name can refer to different types of values at different times.This is called dynamic typing. 
 
@@ -63,27 +63,17 @@ Robotics Example: - Suppose sensor data arrives as text:  sensor_data = "45.7"
 
     print(distance + 10)  = 55.7	<- int type  
 
-Operators 
+# Operators 
 
 1 Arithmetic Operators 
 
-Operator 
-	
 
-Meaning 
-	
-
-Example 
-
-+ 
 	
 
 Addition 
 	
 
 10 + 5 
-
-- 
 	
 
 Subtraction 
@@ -91,40 +81,32 @@ Subtraction
 
 10 - 5 
 
-* 
-	
 
 Multiplication 
 	
 
 10 * 5 
 
-/ 
-	
+
 
 Division 
 	
 
 10 / 5 
 
-// 
-	
+
 
 Floor division 
 	
 
 10 // 3 
 
-% 
-	
+
 
 Modulus 
 	
 
 10 % 3 
-
-** 
-	
 
 Power 
 	
